@@ -20,3 +20,6 @@ some infos to this file as well.
 - extends the function of the previous notebook to compute one 5k vocab of multiple data frames
 - more precise functions
 - displays the top 5k words as a data frame
+
+### Data2Vec
+Exploring how to map, combine and vectorize the fakenewschallenge data
