@@ -23,3 +23,13 @@ some infos to this file as well.
 
 ### Data2Vec
 Exploring how to map, combine and vectorize the fakenewschallenge data
+
+## Step 2 - MLP
+
+> The second step of our pipeline: The Multi-Layer Perceptron. 
+
+### feedforward_pytorch
+A basic, working MLP using the MNIST image recognition data. This is only for reference and practice
+
+### feed_for_text
+A notebook to migrate the basic MLP from above to text data
