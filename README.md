@@ -33,3 +33,6 @@ A basic, working MLP using the MNIST image recognition data. This is only for re
 
 ### Feed_some_food
 The current state-of-the-art notebook. This model reached about 70% accuracy. 
+
+### hackathon
+Notebook with dataloader a la best practice (work in progress)
