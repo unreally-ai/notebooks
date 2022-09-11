@@ -21,18 +21,15 @@ some infos to this file as well.
 - more precise functions
 - displays the top 5k words as a data frame
 
-### Data2Vec
-Exploring how to map, combine and vectorize the fakenewschallenge data
-
 ## Step 2 - MLP
 
 > The second step of our pipeline: The Multi-Layer Perceptron. 
 
-### feedforward_pytorch
-A basic, working MLP using the MNIST image recognition data. This is only for reference and practice
+### the_unreally_notebook
+The current state-of-the-art notebook. This model reached about 72.5% accuracy. 
 
-### Feed_some_food
-The current state-of-the-art notebook. This model reached about 70% accuracy. 
+### data_balancing
+Notebook for balancing the mapped data to imporove training
 
-### hackathon
-Notebook with dataloader a la best practice (work in progress)
+## NN_and_eval
+(Outdated) First tests to evaluate the neural net
